@@ -1,0 +1,612 @@
+
+HOG only 
+
+
+HIDDEN LAYER = 200 
+
+
+Epoch Count: 0 Average Error:  0.20936904594835232
+error decreased by  9.223372036854776e+18
+Epoch Count: 1 Average Error:  0.28005068824120183
+error increased by  0.07068164229284951
+Epoch Count: 2 Average Error:  0.31461070194909696
+error increased by  0.03456001370789513
+Epoch Count: 3 Average Error:  0.32988141548197225
+error increased by  0.01527071353287529
+Epoch Count: 4 Average Error:  0.34047848131479497
+error increased by  0.010597065832822716
+Epoch Count: 5 Average Error:  0.3488646067373831
+error increased by  0.008386125422588153
+Epoch Count: 6 Average Error:  0.3555099692594429
+error increased by  0.006645362522059772
+Epoch Count: 7 Average Error:  0.3606041583357765
+error increased by  0.005094189076333633
+Epoch Count: 8 Average Error:  0.3643218237774142
+error increased by  0.003717665441637652
+Epoch Count: 9 Average Error:  0.3669980282162464
+error increased by  0.002676204438832208
+Epoch Count: 10 Average Error:  0.3688932549748295
+error increased by  0.0018952267585831128
+Epoch Count: 11 Average Error:  0.37031125446728635
+error increased by  0.0014179994924568562
+Epoch Count: 12 Average Error:  0.37144224898673395
+error increased by  0.0011309945194475923
+Epoch Count: 13 Average Error:  0.3723844775464035
+error increased by  0.0009422285596695779
+Epoch Count: 14 Average Error:  0.3731943603093665
+error increased by  0.0008098827629629546
+Epoch Count: 15 Average Error:  0.37390545736219916
+error increased by  0.0007110970528326765
+Epoch Count: 16 Average Error:  0.37453983877251634
+error increased by  0.0006343814103171863
+Epoch Count: 17 Average Error:  0.37511254211585754
+error increased by  0.0005727033433411965
+Epoch Count: 18 Average Error:  0.37563459325418314
+error increased by  0.0005220511383255966
+Epoch Count: 19 Average Error:  0.376114451074537
+error increased by  0.00047985782035386837
+Epoch Count: 20 Average Error:  0.3765584825207484
+error increased by  0.00044403144621141255
+Epoch Count: 21 Average Error:  0.3769716055471123
+error increased by  0.00041312302636387077
+Epoch Count: 22 Average Error:  0.3773579600296239
+error increased by  0.0003863544825116194
+Epoch Count: 23 Average Error:  0.37772066863965176
+error increased by  0.00036270861002785093
+Epoch Count: 24 Average Error:  0.3780626638464597
+error increased by  0.0003419952068079435
+Epoch Count: 25 Average Error:  0.3783858011669504
+error increased by  0.0003231373204907184
+Epoch Count: 26 Average Error:  0.37869247037733345
+error increased by  0.00030666921038302597
+Epoch Count: 27 Average Error:  0.3789840356501032
+error increased by  0.00029156527276974487
+Epoch Count: 28 Average Error:  0.3792617968006645
+error increased by  0.00027776115056132866
+Epoch Count: 29 Average Error:  0.37952723682076794
+error increased by  0.0002654400201034246
+Epoch Count: 30 Average Error:  0.37978111280074217
+error increased by  0.0002538759799742274
+Epoch Count: 31 Average Error:  0.3800246713226133
+error increased by  0.00024355852187113447
+Epoch Count: 32 Average Error:  0.38025851015686063
+error increased by  0.0002338388342473241
+Epoch Count: 33 Average Error:  0.3804834765308386
+error increased by  0.00022496637397795283
+Epoch Count: 34 Average Error:  0.3807001840324468
+error increased by  0.0002167075016082376
+Epoch Count: 35 Average Error:  0.38090903195130427
+error increased by  0.00020884791885744658
+Epoch Count: 36 Average Error:  0.381110795137527
+error increased by  0.00020176318622272538
+Epoch Count: 37 Average Error:  0.38130588359541
+error increased by  0.0001950884578830192
+Epoch Count: 38 Average Error:  0.3814946286322673
+error increased by  0.00018874503685728516
+Epoch Count: 39 Average Error:  0.3816774868316212
+error increased by  0.00018285819935393022
+Epoch Count: 40 Average Error:  0.38185478780971194
+error increased by  0.00017730097809071088
+Epoch Count: 41 Average Error:  0.3820268742899845
+error increased by  0.00017208648027255968
+Epoch Count: 42 Average Error:  0.3821940284204224
+error increased by  0.0001671541304378854
+Epoch Count: 43 Average Error:  0.3823564792904761
+error increased by  0.00016245087005373193
+Epoch Count: 44 Average Error:  0.38251454614502955
+error increased by  0.00015806685455344027
+Epoch Count: 45 Average Error:  0.3826684026341439
+error increased by  0.0001538564891143679
+Epoch Count: 46 Average Error:  0.3828182684463567
+error increased by  0.0001498658122127683
+Epoch Count: 47 Average Error:  0.382964373986959
+error increased by  0.00014610554060229264
+Epoch Count: 48 Average Error:  0.3831068572867998
+error increased by  0.0001424832998407899
+Epoch Count: 49 Average Error:  0.3832459168396475
+error increased by  0.000139059552847709
+Epoch Count: 50 Average Error:  0.3833816663190159
+error increased by  0.00013574947936839665
+Epoch Count: 51 Average Error:  0.3835143096723371
+error increased by  0.00013264335332119348
+Epoch Count: 52 Average Error:  0.3836440043804556
+error increased by  0.0001296947081185218
+Epoch Count: 53 Average Error:  0.38377078642138984
+error increased by  0.00012678204093424794
+Epoch Count: 54 Average Error:  0.3838948288817718
+error increased by  0.00012404246038194566
+Epoch Count: 55 Average Error:  0.384016259263649
+error increased by  0.00012143038187722999
+Epoch Count: 56 Average Error:  0.38413517727101454
+error increased by  0.0001189180073655205
+Epoch Count: 57 Average Error:  0.38425167800727456
+error increased by  0.00011650073626001678
+Epoch Count: 58 Average Error:  0.3843658194688927
+error increased by  0.00011414146161814465
+Epoch Count: 59 Average Error:  0.3844777410454724
+error increased by  0.00011192157657968771
+Epoch Count: 60 Average Error:  0.38458749574014855
+error increased by  0.00010975469467616739
+Epoch Count: 61 Average Error:  0.3846951834789879
+error increased by  0.00010768773883934601
+Epoch Count: 62 Average Error:  0.38480087492728055
+error increased by  0.0001056914482926441
+Epoch Count: 63 Average Error:  0.38490462970270717
+error increased by  0.00010375477542662326
+Epoch Count: 64 Average Error:  0.38500651676823855
+error increased by  0.00010188706553138083
+Epoch Count: 65 Average Error:  0.3851066095654677
+error increased by  0.00010009279722916764
+Epoch Count: 66 Average Error:  0.38520495977422486
+error increased by  9.83502087571475e-05
+training complete....
+ImageData/Test_images_Neg/no_person__no_bike_264_cut.bmp = class (no-human) with predicted value as  :: 0.12102297363056308
+ImageData/Test_images_Neg/00000118a_cut.bmp = class (no-human) with predicted value as  :: 0.12418380040045575
+ImageData/Test_images_Neg/00000003a_cut.bmp = class (no-human) with predicted value as  :: 0.10493434176138289
+ImageData/Test_images_Neg/00000090a_cut.bmp = class (no-human) with predicted value as  :: 0.01799956510886617
+ImageData/Test_images_Neg/no_person__no_bike_258_Cut.bmp = class (borderline) with predicted value as  :: 0.5701941437462366
+ImageData/Test_images_Pos/crop001034b.bmp = class (no-human) with predicted value as  :: 0.37356897454578913
+ImageData/Test_images_Pos/person_and_bike_151a.bmp = class (human) with predicted value as  :: 0.9084456792999575
+ImageData/Test_images_Pos/crop001278a.bmp = class (human) with predicted value as  :: 0.938791607423105
+ImageData/Test_images_Pos/crop001500b.bmp = class (borderline) with predicted value as  :: 0.587157433684267
+ImageData/Test_images_Pos/crop001070a.bmp = class (human) with predicted value as  :: 0.7994003004456153
+correct = 8
+wrong = 2
+average error = 0
+[array([[0.12102297]]), array([[0.1241838]]), array([[0.10493434]]), array([[0.01799957]]), array([[0.57019414]]), array([[0.37356897]]), array([[0.90844568]]), array([[0.93879161]]), array([[0.58715743]]), array([[0.7994003]])]
+[0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+
+HIDDEN LAYER = 400 
+
+
+Epoch Count: 0 Average Error:  0.06277424674882727
+error decreased by  9.223372036854776e+18
+Epoch Count: 1 Average Error:  0.11263430604144305
+error increased by  0.04986005929261578
+Epoch Count: 2 Average Error:  0.13444168265410822
+error increased by  0.021807376612665172
+Epoch Count: 3 Average Error:  0.1489198561320765
+error increased by  0.014478173477968287
+Epoch Count: 4 Average Error:  0.15970401655243932
+error increased by  0.010784160420362815
+Epoch Count: 5 Average Error:  0.16902793138286082
+error increased by  0.009323914830421498
+Epoch Count: 6 Average Error:  0.175426533850939
+error increased by  0.0063986024680781906
+Epoch Count: 7 Average Error:  0.17994684659144633
+error increased by  0.004520312740507321
+Epoch Count: 8 Average Error:  0.1829405802347843
+error increased by  0.0029937336433379647
+Epoch Count: 9 Average Error:  0.18483092883111826
+error increased by  0.0018903485963339683
+Epoch Count: 10 Average Error:  0.18617118561698157
+error increased by  0.001340256785863303
+Epoch Count: 11 Average Error:  0.18721779550726458
+error increased by  0.0010466098902830179
+Epoch Count: 12 Average Error:  0.18808227747443335
+error increased by  0.000864481967168762
+Epoch Count: 13 Average Error:  0.18882441937599287
+error increased by  0.0007421419015595232
+Epoch Count: 14 Average Error:  0.18947674206834614
+error increased by  0.0006523226923532688
+Epoch Count: 15 Average Error:  0.19005943732910435
+error increased by  0.0005826952607582148
+Epoch Count: 16 Average Error:  0.1905865781935949
+error increased by  0.000527140864490544
+Epoch Count: 17 Average Error:  0.19106805804648647
+error increased by  0.0004814798528915698
+Epoch Count: 18 Average Error:  0.19151128671451229
+error increased by  0.00044322866802581906
+Epoch Count: 19 Average Error:  0.1919220477761698
+error increased by  0.0004107610616575219
+Epoch Count: 20 Average Error:  0.19230508475283672
+error increased by  0.00038303697666691727
+Epoch Count: 21 Average Error:  0.19266328943656524
+error increased by  0.0003582046837285191
+Epoch Count: 22 Average Error:  0.19300104552100916
+error increased by  0.0003377560844439187
+Epoch Count: 23 Average Error:  0.19331905662456356
+error increased by  0.0003180111035543942
+Epoch Count: 24 Average Error:  0.19362048320924072
+error increased by  0.0003014265846771613
+Epoch Count: 25 Average Error:  0.1939067105263786
+error increased by  0.00028622731713787153
+Epoch Count: 26 Average Error:  0.1941789796193715
+error increased by  0.0002722690929929106
+Epoch Count: 27 Average Error:  0.19443921571566264
+error increased by  0.00026023609629113875
+Epoch Count: 28 Average Error:  0.1946877980581398
+error increased by  0.00024858234247715494
+Epoch Count: 29 Average Error:  0.19492608176839102
+error increased by  0.00023828371025122475
+Epoch Count: 30 Average Error:  0.19515454383843717
+error increased by  0.00022846207004614816
+Epoch Count: 31 Average Error:  0.19537428431442022
+error increased by  0.00021974047598305457
+Epoch Count: 32 Average Error:  0.19558586542491213
+error increased by  0.00021158111049190964
+Epoch Count: 33 Average Error:  0.19578985679823838
+error increased by  0.0002039913733262455
+Epoch Count: 34 Average Error:  0.19598662081425913
+error increased by  0.00019676401602075622
+Epoch Count: 35 Average Error:  0.19617698724954674
+error increased by  0.00019036643528760888
+Epoch Count: 36 Average Error:  0.196360996470925
+error increased by  0.0001840092213782618
+Epoch Count: 37 Average Error:  0.19653917151414618
+error increased by  0.00017817504322117927
+Epoch Count: 38 Average Error:  0.19671191832560755
+error increased by  0.00017274681146137172
+Epoch Count: 39 Average Error:  0.1968795208458376
+error increased by  0.0001676025202300424
+Epoch Count: 40 Average Error:  0.19704236541494688
+error increased by  0.0001628445691092828
+Epoch Count: 41 Average Error:  0.19720052408566838
+error increased by  0.0001581586707214977
+Epoch Count: 42 Average Error:  0.1973542859924453
+error increased by  0.00015376190677693358
+Epoch Count: 43 Average Error:  0.19750408784350484
+error increased by  0.00014980185105953336
+Epoch Count: 44 Average Error:  0.19764989319101406
+error increased by  0.0001458053475092147
+Epoch Count: 45 Average Error:  0.19779198910781554
+error increased by  0.00014209591680147682
+Epoch Count: 46 Average Error:  0.1979306227087862
+error increased by  0.00013863360097066124
+Epoch Count: 47 Average Error:  0.19806595792753884
+error increased by  0.00013533521875264132
+Epoch Count: 48 Average Error:  0.19819802398236688
+error increased by  0.000132066054828045
+Epoch Count: 49 Average Error:  0.19832697036940297
+error increased by  0.00012894638703608852
+Epoch Count: 50 Average Error:  0.19845304604790118
+error increased by  0.00012607567849820533
+Epoch Count: 51 Average Error:  0.198576340676358
+error increased by  0.00012329462845681038
+Epoch Count: 52 Average Error:  0.19869699223988896
+error increased by  0.00012065156353097128
+Epoch Count: 53 Average Error:  0.19881505753706055
+error increased by  0.00011806529717159342
+Epoch Count: 54 Average Error:  0.19893064981984074
+error increased by  0.00011559228278018585
+Epoch Count: 55 Average Error:  0.19904387987112251
+error increased by  0.00011323005128177632
+Epoch Count: 56 Average Error:  0.19915482301843
+error increased by  0.00011094314730747401
+Epoch Count: 57 Average Error:  0.1992636684679248
+error increased by  0.0001088454494947988
+Epoch Count: 58 Average Error:  0.19937036014043422
+error increased by  0.00010669167250942913
+Epoch Count: 59 Average Error:  0.19947502855221516
+error increased by  0.00010466841178094488
+Epoch Count: 60 Average Error:  0.19957774436935777
+error increased by  0.0001027158171426068
+Epoch Count: 61 Average Error:  0.1996785744206583
+error increased by  0.00010083005130054334
+Epoch Count: 62 Average Error:  0.1997775944058618
+error increased by  9.90199852034801e-05
+training complete....
+ImageData/Test_images_Neg/no_person__no_bike_264_cut.bmp = class (no-human) with predicted value as  :: 0.3117998130930976
+ImageData/Test_images_Neg/00000118a_cut.bmp = class (no-human) with predicted value as  :: 0.15296791102655427
+ImageData/Test_images_Neg/00000003a_cut.bmp = class (no-human) with predicted value as  :: 0.14833132963023984
+ImageData/Test_images_Neg/00000090a_cut.bmp = class (no-human) with predicted value as  :: 0.052532847349917734
+ImageData/Test_images_Neg/no_person__no_bike_258_Cut.bmp = class (human) with predicted value as  :: 0.6733152887288638
+ImageData/Test_images_Pos/crop001034b.bmp = class (no-human) with predicted value as  :: 0.3243464760862844
+ImageData/Test_images_Pos/person_and_bike_151a.bmp = class (human) with predicted value as  :: 0.9235645831642586
+ImageData/Test_images_Pos/crop001278a.bmp = class (human) with predicted value as  :: 0.9645462573213118
+ImageData/Test_images_Pos/crop001500b.bmp = class (human) with predicted value as  :: 0.624489593741132
+ImageData/Test_images_Pos/crop001070a.bmp = class (human) with predicted value as  :: 0.8403137031468967
+correct = 8
+wrong = 2
+average error = 0
+[array([[0.31179981]]), array([[0.15296791]]), array([[0.14833133]]), array([[0.05253285]]), array([[0.67331529]]), array([[0.32434648]]), array([[0.92356458]]), array([[0.96454626]]), array([[0.62448959]]), array([[0.8403137]])]
+[0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+HOG and LBP 
+
+
+HIDDEN LAYER = 200 
+
+
+Epoch Count: 0 Average Error:  0.06872530612445889
+error decreased by  9.223372036854776e+18
+Epoch Count: 1 Average Error:  0.11709610764721212
+error increased by  0.048370801522753235
+Epoch Count: 2 Average Error:  0.14122091621608274
+error increased by  0.024124808568870615
+Epoch Count: 3 Average Error:  0.15699678516262722
+error increased by  0.01577586894654448
+Epoch Count: 4 Average Error:  0.1688571438860635
+error increased by  0.01186035872343627
+Epoch Count: 5 Average Error:  0.17831864529403213
+error increased by  0.009461501407968642
+Epoch Count: 6 Average Error:  0.18651615499162713
+error increased by  0.008197509697595001
+Epoch Count: 7 Average Error:  0.19235704892253952
+error increased by  0.005840893930912389
+Epoch Count: 8 Average Error:  0.19666086594485277
+error increased by  0.00430381702231325
+Epoch Count: 9 Average Error:  0.19968548207650844
+error increased by  0.0030246161316556663
+Epoch Count: 10 Average Error:  0.20175520467874702
+error increased by  0.0020697226022385884
+Epoch Count: 11 Average Error:  0.20322407620855132
+error increased by  0.0014688715298042943
+Epoch Count: 12 Average Error:  0.2043655913417551
+error increased by  0.001141515133203791
+Epoch Count: 13 Average Error:  0.20530120058084042
+error increased by  0.000935609239085311
+Epoch Count: 14 Average Error:  0.20609861334565288
+error increased by  0.0007974127648124607
+Epoch Count: 15 Average Error:  0.20679488366358262
+error increased by  0.0006962703179297369
+Epoch Count: 16 Average Error:  0.20741228732910472
+error increased by  0.0006174036655220982
+Epoch Count: 17 Average Error:  0.20796948089270445
+error increased by  0.0005571935635997338
+Epoch Count: 18 Average Error:  0.2084759588101231
+error increased by  0.0005064779174186462
+Epoch Count: 19 Average Error:  0.2089409443917539
+error increased by  0.00046498558163080017
+Epoch Count: 20 Average Error:  0.20937111253178992
+error increased by  0.0004301681400360191
+Epoch Count: 21 Average Error:  0.20977032933440326
+error increased by  0.0003992168026133447
+Epoch Count: 22 Average Error:  0.2101440187423944
+error increased by  0.00037368940799115125
+Epoch Count: 23 Average Error:  0.21049463441344818
+error increased by  0.0003506156710537667
+Epoch Count: 24 Average Error:  0.21082523616446797
+error increased by  0.00033060175101978784
+Epoch Count: 25 Average Error:  0.21113730148125892
+error increased by  0.00031206531679095484
+Epoch Count: 26 Average Error:  0.21143336361681656
+error increased by  0.0002960621355576343
+Epoch Count: 27 Average Error:  0.2117152706815711
+error increased by  0.000281907064754533
+Epoch Count: 28 Average Error:  0.21198355140612138
+error increased by  0.0002682807245502905
+Epoch Count: 29 Average Error:  0.2122397922659683
+error increased by  0.00025624085984693457
+Epoch Count: 30 Average Error:  0.21248513178247386
+error increased by  0.00024533951650554386
+Epoch Count: 31 Average Error:  0.21272020237886516
+error increased by  0.00023507059639130135
+Epoch Count: 32 Average Error:  0.21294599486313698
+error increased by  0.00022579248427181953
+Epoch Count: 33 Average Error:  0.21316322453960357
+error increased by  0.00021722967646659042
+Epoch Count: 34 Average Error:  0.21337243147894774
+error increased by  0.00020920693934417534
+Epoch Count: 35 Average Error:  0.2135740646521786
+error increased by  0.00020163317323085295
+Epoch Count: 36 Average Error:  0.21376891814669974
+error increased by  0.0001948534945211411
+Epoch Count: 37 Average Error:  0.2139571896204823
+error increased by  0.0001882714737825586
+Epoch Count: 38 Average Error:  0.21413947783800819
+error increased by  0.00018228821752588886
+Epoch Count: 39 Average Error:  0.21431606956099328
+error increased by  0.00017659172298509218
+Epoch Count: 40 Average Error:  0.2144871955009416
+error increased by  0.00017112593994833558
+Epoch Count: 41 Average Error:  0.21465325074203193
+error increased by  0.00016605524109031267
+Epoch Count: 42 Average Error:  0.2148146531091985
+error increased by  0.00016140236716657985
+Epoch Count: 43 Average Error:  0.21497141364924857
+error increased by  0.000156760540050066
+Epoch Count: 44 Average Error:  0.21512398395939414
+error increased by  0.00015257031014556666
+Epoch Count: 45 Average Error:  0.2152725132949783
+error increased by  0.00014852933558415216
+Epoch Count: 46 Average Error:  0.21541708021520983
+error increased by  0.0001445669202315425
+Epoch Count: 47 Average Error:  0.21555806358540294
+error increased by  0.00014098337019310958
+Epoch Count: 48 Average Error:  0.21569549891257528
+error increased by  0.00013743532717233609
+Epoch Count: 49 Average Error:  0.21582968764091554
+error increased by  0.00013418872834025652
+Epoch Count: 50 Average Error:  0.21596066882207426
+error increased by  0.00013098118115872914
+Epoch Count: 51 Average Error:  0.21608856408661894
+error increased by  0.0001278952645446807
+Epoch Count: 52 Average Error:  0.2162136842891428
+error increased by  0.00012512020252386513
+Epoch Count: 53 Average Error:  0.21633589913119122
+error increased by  0.0001222148420484126
+Epoch Count: 54 Average Error:  0.21645559597976657
+error increased by  0.00011969684857535134
+Epoch Count: 55 Average Error:  0.21657267653779316
+error increased by  0.00011708055802658879
+Epoch Count: 56 Average Error:  0.21668728153856792
+error increased by  0.00011460500077475899
+Epoch Count: 57 Average Error:  0.21679963540606595
+error increased by  0.00011235386749802734
+Epoch Count: 58 Average Error:  0.2169097004046639
+error increased by  0.00011006499859794738
+Epoch Count: 59 Average Error:  0.2170176234563302
+error increased by  0.00010792305166629212
+Epoch Count: 60 Average Error:  0.2171234162009274
+error increased by  0.00010579274459721066
+Epoch Count: 61 Average Error:  0.21722717140109427
+error increased by  0.00010375520016686623
+Epoch Count: 62 Average Error:  0.21732906906440247
+error increased by  0.0001018976633082036
+Epoch Count: 63 Average Error:  0.21742905219144384
+error increased by  9.998312704137535e-05
+training complete....
+ImageData/Test_images_Neg/no_person__no_bike_264_cut.bmp = class (no-human) with predicted value as  :: 0.3229632164270737
+ImageData/Test_images_Neg/00000118a_cut.bmp = class (no-human) with predicted value as  :: 0.11275191701850437
+ImageData/Test_images_Neg/00000003a_cut.bmp = class (no-human) with predicted value as  :: 0.15079312231231573
+ImageData/Test_images_Neg/00000090a_cut.bmp = class (no-human) with predicted value as  :: 0.02002604001521951
+ImageData/Test_images_Neg/no_person__no_bike_258_Cut.bmp = class (human) with predicted value as  :: 0.6962562333986343
+ImageData/Test_images_Pos/crop001034b.bmp = class (no-human) with predicted value as  :: 0.3041314029710677
+ImageData/Test_images_Pos/person_and_bike_151a.bmp = class (human) with predicted value as  :: 0.9620384569010505
+ImageData/Test_images_Pos/crop001278a.bmp = class (human) with predicted value as  :: 0.954780444306016
+ImageData/Test_images_Pos/crop001500b.bmp = class (borderline) with predicted value as  :: 0.5301325874014972
+ImageData/Test_images_Pos/crop001070a.bmp = class (human) with predicted value as  :: 0.8989272527219223
+correct = 8
+wrong = 2
+average error = 0
+[array([[0.32296322]]), array([[0.11275192]]), array([[0.15079312]]), array([[0.02002604]]), array([[0.69625623]]), array([[0.3041314]]), array([[0.96203846]]), array([[0.95478044]]), array([[0.53013259]]), array([[0.89892725]])]
+[0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
+
+
+HIDDEN LAYER = 400 
+
+
+Epoch Count: 0 Average Error:  0.10391765500813807
+error decreased by  9.223372036854776e+18
+Epoch Count: 1 Average Error:  0.15319263095277966
+error increased by  0.049274975944641586
+Epoch Count: 2 Average Error:  0.17574914973900793
+error increased by  0.022556518786228275
+Epoch Count: 3 Average Error:  0.19065284415798672
+error increased by  0.014903694418978791
+Epoch Count: 4 Average Error:  0.20174136581448116
+error increased by  0.011088521656494432
+Epoch Count: 5 Average Error:  0.21037445919081915
+error increased by  0.008633093376337997
+Epoch Count: 6 Average Error:  0.2170274786076905
+error increased by  0.006653019416871353
+Epoch Count: 7 Average Error:  0.22202673899252917
+error increased by  0.004999260384838666
+Epoch Count: 8 Average Error:  0.22567176840995526
+error increased by  0.0036450294174260878
+Epoch Count: 9 Average Error:  0.2282419323219481
+error increased by  0.002570163911992829
+Epoch Count: 10 Average Error:  0.23008040126426246
+error increased by  0.0018384689423143752
+Epoch Count: 11 Average Error:  0.23146323541109376
+error increased by  0.0013828341468312966
+Epoch Count: 12 Average Error:  0.23257357359089173
+error increased by  0.0011103381797979706
+Epoch Count: 13 Average Error:  0.23350494055401314
+error increased by  0.000931366963121405
+Epoch Count: 14 Average Error:  0.23431034572026746
+error increased by  0.0008054051662543249
+Epoch Count: 15 Average Error:  0.2350203928775497
+error increased by  0.0007100471572822342
+Epoch Count: 16 Average Error:  0.2356566013315121
+error increased by  0.0006362084539623947
+Epoch Count: 17 Average Error:  0.23622983220331945
+error increased by  0.0005732308718073564
+Epoch Count: 18 Average Error:  0.23675518845647803
+error increased by  0.000525356253158582
+Epoch Count: 19 Average Error:  0.23723735590762382
+error increased by  0.00048216745114579296
+Epoch Count: 20 Average Error:  0.237684960622741
+error increased by  0.00044760471511717803
+Epoch Count: 21 Average Error:  0.23810124316562975
+error increased by  0.00041628254288875177
+Epoch Count: 22 Average Error:  0.23849110666674456
+error increased by  0.0003898635011148066
+Epoch Count: 23 Average Error:  0.2388580508515373
+error increased by  0.0003669441847927446
+Epoch Count: 24 Average Error:  0.23920307318909345
+error increased by  0.0003450223375561501
+Epoch Count: 25 Average Error:  0.23953088076507606
+error increased by  0.00032780757598260823
+Epoch Count: 26 Average Error:  0.23984096217480727
+error increased by  0.000310081409731211
+Epoch Count: 27 Average Error:  0.24013602736778467
+error increased by  0.0002950651929773951
+Epoch Count: 28 Average Error:  0.2404179367629164
+error increased by  0.00028190939513172975
+Epoch Count: 29 Average Error:  0.2406869838668333
+error increased by  0.00026904710391689735
+Epoch Count: 30 Average Error:  0.2409444760317701
+error increased by  0.00025749216493681226
+Epoch Count: 31 Average Error:  0.24119181425679043
+error increased by  0.00024733822502032154
+Epoch Count: 32 Average Error:  0.24142926386776037
+error increased by  0.000237449610969942
+Epoch Count: 33 Average Error:  0.24165774400034817
+error increased by  0.00022848013258780497
+Epoch Count: 34 Average Error:  0.24187798382619702
+error increased by  0.00022023982584884472
+Epoch Count: 35 Average Error:  0.24209041041208593
+error increased by  0.0002124265858889085
+Epoch Count: 36 Average Error:  0.24229547779910982
+error increased by  0.00020506738702388838
+Epoch Count: 37 Average Error:  0.24249404560775684
+error increased by  0.00019856780864702106
+Epoch Count: 38 Average Error:  0.24268614714887335
+error increased by  0.00019210154111651279
+Epoch Count: 39 Average Error:  0.24287220395373904
+error increased by  0.00018605680486569187
+Epoch Count: 40 Average Error:  0.24305280639800214
+error increased by  0.00018060244426310046
+Epoch Count: 41 Average Error:  0.24322801299829871
+error increased by  0.00017520660029657353
+Epoch Count: 42 Average Error:  0.24339816288717953
+error increased by  0.00017014988888081062
+Epoch Count: 43 Average Error:  0.2435637374136344
+error increased by  0.00016557452645488135
+Epoch Count: 44 Average Error:  0.24372485145200923
+error increased by  0.00016111403837482108
+Epoch Count: 45 Average Error:  0.24388158368274784
+error increased by  0.00015673223073861542
+Epoch Count: 46 Average Error:  0.24403447674701212
+error increased by  0.00015289306426427562
+Epoch Count: 47 Average Error:  0.24418334516342552
+error increased by  0.0001488684164134002
+Epoch Count: 48 Average Error:  0.24432866603023137
+error increased by  0.00014532086680585365
+Epoch Count: 49 Average Error:  0.2444705305760857
+error increased by  0.0001418645458543255
+Epoch Count: 50 Average Error:  0.24460905803579314
+error increased by  0.00013852745970743818
+Epoch Count: 51 Average Error:  0.24474440786452933
+error increased by  0.0001353498287361976
+Epoch Count: 52 Average Error:  0.2448767142157854
+error increased by  0.00013230635125607848
+Epoch Count: 53 Average Error:  0.2450061718240284
+error increased by  0.00012945760824298325
+Epoch Count: 54 Average Error:  0.2451327406041713
+error increased by  0.00012656878014291606
+Epoch Count: 55 Average Error:  0.24525676787686407
+error increased by  0.00012402727269275604
+Epoch Count: 56 Average Error:  0.24537816273958715
+error increased by  0.00012139486272308431
+Epoch Count: 57 Average Error:  0.2454971083148986
+error increased by  0.00011894557531144656
+Epoch Count: 58 Average Error:  0.2456136769234039
+error increased by  0.00011656860850531303
+Epoch Count: 59 Average Error:  0.24572805125428365
+error increased by  0.0001143743308797407
+Epoch Count: 60 Average Error:  0.24584012391003524
+error increased by  0.00011207265575158276
+Epoch Count: 61 Average Error:  0.24595017559661642
+error increased by  0.0001100516865811807
+Epoch Count: 62 Average Error:  0.24605814711591195
+error increased by  0.0001079715192955355
+Epoch Count: 63 Average Error:  0.24616414839195827
+error increased by  0.00010600127604631915
+Epoch Count: 64 Average Error:  0.24626826397238433
+error increased by  0.00010411558042605629
+Epoch Count: 65 Average Error:  0.24637056472656643
+error increased by  0.00010230075418210527
+Epoch Count: 66 Average Error:  0.24647107103769791
+error increased by  0.0001005063111314819
+Epoch Count: 67 Average Error:  0.24656991315653048
+error increased by  9.884211883257055e-05
+training complete....
+ImageData/Test_images_Neg/no_person__no_bike_264_cut.bmp = class (no-human) with predicted value as  :: 0.18883294951093296
+ImageData/Test_images_Neg/00000118a_cut.bmp = class (no-human) with predicted value as  :: 0.14593827575969928
+ImageData/Test_images_Neg/00000003a_cut.bmp = class (no-human) with predicted value as  :: 0.1336468544944816
+ImageData/Test_images_Neg/00000090a_cut.bmp = class (no-human) with predicted value as  :: 0.021509678911560273
+ImageData/Test_images_Neg/no_person__no_bike_258_Cut.bmp = class (human) with predicted value as  :: 0.6246223539818803
+ImageData/Test_images_Pos/crop001034b.bmp = class (no-human) with predicted value as  :: 0.33236572849529405
+ImageData/Test_images_Pos/person_and_bike_151a.bmp = class (human) with predicted value as  :: 0.921072216823859
+ImageData/Test_images_Pos/crop001278a.bmp = class (human) with predicted value as  :: 0.949909677089038
+ImageData/Test_images_Pos/crop001500b.bmp = class (human) with predicted value as  :: 0.6017396673228734
+ImageData/Test_images_Pos/crop001070a.bmp = class (human) with predicted value as  :: 0.8164627664446198
+correct = 8
+wrong = 2
+average error = 0
+[array([[0.18883295]]), array([[0.14593828]]), array([[0.13364685]]), array([[0.02150968]]), array([[0.62462235]]), array([[0.33236573]]), array([[0.92107222]]), array([[0.94990968]]), array([[0.60173967]]), array([[0.81646277]])]
+[0, 0, 0, 0, 0, 1, 1, 1, 1, 1]
